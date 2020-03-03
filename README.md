@@ -17,7 +17,7 @@ Graphical analysis of the earthquake magnitude over time shows how quakes of var
 
 *Figure 1: Earthquakes by magnitude since 2010.*
 
-Looking at earthquakes since 2010 on a map reveals the boundaries of the tectonic plates in the area, namely the Juan de Fuca plate, due to the heightened activity along the boundaries. These occur just off the coast of the Pacific Northwest as seen in figure 2. 
+Looking at earthquakes since 2010 on a map reveals the boundaries of the tectonic plates in the area, namely the Juan de Fuca plate, due to the heightened activity along the boundaries. These occur just off the coast of the Pacific Northwest as seen in figure 2. The maximum magnitude earthquake was  6.8  for the area and time since 2010. The minimum magnitude earthquake was  2.5  for the area and time since 2010. The average magnitude of all earthquakes is  3.24  for the area and time since 2010.
 
 ![alt text](https://github.com/etomlin27/Plate_Tectonics_Project3/blob/master/Bigplot.png)
 
