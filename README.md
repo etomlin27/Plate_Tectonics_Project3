@@ -23,21 +23,21 @@ Looking at earthquakes since 2010 on a map reveals the boundaries of the tectoni
 
 *Figure 2: Geographic locations of Earthquakes since 2010.*
 
-![alt text](https://github.com/etomlin27/Meteorology_Project_2/blob/master/Combined_OS.png)
+Further narrowing the timeline, looking at April of 2015 other plate tectonic effects on earthquakes can be observed. In April 2015 there was an undersea volcanic eruption. As seen in figure 3, there was several larger magnitude earthquakes occuring in this shorter time frame.
 
-*Figure 1c: Combined Profile for Oregon Offshore Surface Mooring.*
+![alt text](https://github.com/etomlin27/Plate_Tectonics_Project3/blob/master/Aprplot.png)
 
-![alt text](https://github.com/etomlin27/Meteorology_Project_2/blob/master/Rain_and_Wind_SS.png)
+*Figure 3: Earhquakes during the Undersea Eruption of April 2015.*
 
-*Figure 2a: Rain and Wind Rates for Oregon Surface Shelf Monitoring Station.*
+Isolating the geographic region examined to compare the differnces in quakes produced by divergent or transformational plate boundaries. Figures 4 and 5 show divergent and transformational earthquakes, respectively. The divergent fault line appears to produce more earthquakes but at a lower magnitude. The divergent faultline statistics are: maximum magnitude earthquake was 6.6, minimum magnitude earthquake was  2.5, average magnitude of all earthquakes is  2.97.
 
-![alt text](https://github.com/etomlin27/Meteorology_Project_2/blob/master/Weather_Stripes_SS.png)
+![alt text](https://github.com/etomlin27/Plate_Tectonics_Project3/blob/master/Divplot.png)
 
-*Figure 2b: Weather profile across 2019 Oregon Surface Shelf Monitoring Station.*
+*Figure 4: Rain and Wind Rates for Oregon Surface Shelf Monitoring Station.*
 
-![alt text](https://github.com/etomlin27/Meteorology_Project_2/blob/master/Combined_SS.png)
+![alt text](https://github.com/etomlin27/Plate_Tectonics_Project3/blob/master/Transplot.png)
 
-*Figure 2c: Combined Profile for Oregon Surface Shelf Monitoring Station.*
+*Figure 5: Weather profile across 2019 Oregon Surface Shelf Monitoring Station.*
 
 These times can then be compared between the two sites to determine cross corrilation and see how weather events my move and expand in the region. Comparing the Wind Speeds between the sites and cross corrilating, there is a strong corrilation. This is as expected as the wind is a large scale event and it would be unusual for there to be a high number of data points where one site is windy and the other isn't. Based upon the overlayed graphs as seen in figure 3, the offshore wind is higher than the shelf with a slight lag. This also follows expectaions as the wind has little resistance over the open ocean, but as it approaches shore thermal resistance become more prevelant. The Maximum correlation occurs at lag 1, indicating near simultainious events based upon the time period examined. As the data is recorded roughly every 8 hours, this indicates that the weather travels between the two sites in 8 hours or less. The max correlation value for the wind is 0.715 and indicates a decently strong correltation.
 
