@@ -3,7 +3,7 @@ Project 3 For BME 450 Winter 2020
 
 Code URL: https://github.com/etomlin27/Meteorology_Project_2/blob/master/Tomlin_Project2_Meteo.ipynb
 
-README URL: https://github.com/etomlin27/Meteorology_Project_2/blob/master/README.md
+README URL: https://raw.githubusercontent.com/etomlin27/Plate_Tectonics_Project3/master/README.md
 
 ## Problem Statement:
 
