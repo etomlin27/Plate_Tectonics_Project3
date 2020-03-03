@@ -33,35 +33,17 @@ Isolating the geographic region examined to compare the differnces in quakes pro
 
 ![alt text](https://github.com/etomlin27/Plate_Tectonics_Project3/blob/master/Divplot.png)
 
-*Figure 4: Rain and Wind Rates for Oregon Surface Shelf Monitoring Station.*
+*Figure 4: Earthquakes along the Divergent Plate Boundary.*
 
 ![alt text](https://github.com/etomlin27/Plate_Tectonics_Project3/blob/master/Transplot.png)
 
-*Figure 5: Weather profile across 2019 Oregon Surface Shelf Monitoring Station.*
+*Figure 5: Earthquakes along the Transverse Plate Boundary.*
 
-These times can then be compared between the two sites to determine cross corrilation and see how weather events my move and expand in the region. Comparing the Wind Speeds between the sites and cross corrilating, there is a strong corrilation. This is as expected as the wind is a large scale event and it would be unusual for there to be a high number of data points where one site is windy and the other isn't. Based upon the overlayed graphs as seen in figure 3, the offshore wind is higher than the shelf with a slight lag. This also follows expectaions as the wind has little resistance over the open ocean, but as it approaches shore thermal resistance become more prevelant. The Maximum correlation occurs at lag 1, indicating near simultainious events based upon the time period examined. As the data is recorded roughly every 8 hours, this indicates that the weather travels between the two sites in 8 hours or less. The max correlation value for the wind is 0.715 and indicates a decently strong correltation.
-
-![alt text](https://github.com/etomlin27/Meteorology_Project_2/blob/master/Wind_Correlation.png)
-
-*Figure 3: Wind Correlation Data.*
-
-Conducting the same analysis on the rain, a similer pattern emerges. As seen in figure 4, the rain's maximum correlation also occurs at lag 1 with a maximum value of 0.634. This is a moderatly strong correlation, but less so than the wind. This observation suggests that the rain does not behave quite the same way as the wind, and may dissipate between sites. Overall, the rain is still corellated and, interestingly, opposite of the wind in that the higher rain rates occur inland. Once again this is consistant with expectations as rain is usually formed as a result of atmospheric pressure changes that are more prevelant as a result of elevation and thermal changes from landmasses.
-
-![alt text](https://github.com/etomlin27/Meteorology_Project_2/blob/master/Rain_Correlation.png)
-
-*Figure 4: Wind Correlation Data.*
-
-As both correlation maxes were significantly above the rest of the data, and both occured at lag one, it can be concluded that there is a relationship between the lag of the wind and the lag of the rain.
-
-In order to determine the validity of the data and develop a weather profile of monthly averages across the year. Figure 5 shows that the rainiest month is December and the dryest month is August. The windiest month is January and the calmist month is August. This follows the expected pattern for the west coast of the United States with wet windy winters and dryer, calmer summers. With the exception of September, all four parameters also follow each other, reinforcing their correlation.
-
-![alt text](https://github.com/etomlin27/Meteorology_Project_2/blob/master/Monthly_Averages.png)
-
-*Figure 5: Monthly Averages.*
+For the transverse boundary: the maximum magnitude earthquake was  5.6  for the area and time since 2010. The minimum magnitude earthquake was  2.5  for the area and time since 2010. The average magnitude of all earthquakes is  3.41  for the area and time since 2010.
 
 ## Conclusion:
 
-Weather systems are large scale events that can be tracked by using multiple instrument stations and determinind correlation between them. In the case of the Oregon observitories used, there is a strong correlation between the rain and wind between the two offshore locations.
+Plate movements cause earthquakes as they seperate (diverge), collide and subduct (converge), and slide transversally.
 
 ## References:
 
